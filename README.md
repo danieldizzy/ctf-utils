@@ -34,4 +34,11 @@
     <td><a href="https://github.com/mitre-cyber-academy/ctf-scoreboard-recipe">ctf-scoreboard-recipe</a></td>
     <td>This is a cookbook that allows for the automated creation of a scoreboard for the MITRE stem CTF. It also sets up syncing of keys between the VPN box and the scoreboard for users to download.</td>
   </tr>
+
+  <tr>
+    <td>How-to Write a Challenge</td>
+    <td><a href="https://github.com/mitre-cyber-academy/how-to-write-a-challenge">how-to-write-a-challenge</a></td>
+    <td>Instructions on how to create a challenge that will plug into the CTF-Scoreboard.</td>
+  </tr>
+
 </table>
